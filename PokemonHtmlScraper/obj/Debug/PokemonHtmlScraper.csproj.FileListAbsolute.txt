@@ -1,0 +1,11 @@
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\PokemonHtmlScraper.exe.config
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\PokemonHtmlScraper.exe
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\PokemonHtmlScraper.pdb
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\HtmlAgilityPack.dll
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\HtmlAgilityPack.pdb
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\bin\Debug\HtmlAgilityPack.xml
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\obj\Debug\PokemonHtmlScraper.csproj.CoreCompileInputs.cache
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\obj\Debug\PokemonHtmlScraper.csproj.CopyComplete
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\obj\Debug\PokemonHtmlScraper.exe
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\obj\Debug\PokemonHtmlScraper.pdb
+E:\Misc\Projects\PokemonHtmlScraper\PokemonHtmlScraper\obj\Debug\PokemonHtmlScraper.csprojAssemblyReference.cache
